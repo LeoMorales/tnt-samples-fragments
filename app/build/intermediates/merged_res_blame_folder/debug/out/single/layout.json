@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\leomorales\\code\\android\\tnt-2021-tw\\tnt-samples-fragments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_autor.xml",
+        "source": "C:\\Users\\leomorales\\code\\android\\tnt-2021-tw\\tnt-samples-fragments\\app\\src\\main\\res\\layout\\fragment_autor.xml"
+    },
+    {
+        "merged": "C:\\Users\\leomorales\\code\\android\\tnt-2021-tw\\tnt-samples-fragments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_descripcion_libro.xml",
+        "source": "C:\\Users\\leomorales\\code\\android\\tnt-2021-tw\\tnt-samples-fragments\\app\\src\\main\\res\\layout\\fragment_descripcion_libro.xml"
+    },
+    {
+        "merged": "C:\\Users\\leomorales\\code\\android\\tnt-2021-tw\\tnt-samples-fragments\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\leomorales\\code\\android\\tnt-2021-tw\\tnt-samples-fragments\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

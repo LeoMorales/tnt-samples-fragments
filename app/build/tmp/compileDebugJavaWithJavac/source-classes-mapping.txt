@@ -1,0 +1,8 @@
+unpsjb/ing/dit/tnt/fragmentslibros/BuildConfig.java
+ unpsjb.ing.dit.tnt.fragmentslibros.BuildConfig
+unpsjb/ing/dit/tnt/fragmentslibros/databinding/FragmentAutorBinding.java
+ unpsjb.ing.dit.tnt.fragmentslibros.databinding.FragmentAutorBinding
+unpsjb/ing/dit/tnt/fragmentslibros/databinding/ActivityMainBinding.java
+ unpsjb.ing.dit.tnt.fragmentslibros.databinding.ActivityMainBinding
+unpsjb/ing/dit/tnt/fragmentslibros/databinding/FragmentDescripcionLibroBinding.java
+ unpsjb.ing.dit.tnt.fragmentslibros.databinding.FragmentDescripcionLibroBinding
